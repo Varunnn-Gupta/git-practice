@@ -11,4 +11,4 @@ This is my first Git repository, creating while learning basics for the course E
 
 ## Author
 
-VG -- [@Varunnn-Gupta] (https://github.com/varunnn-gupta)
+**VG** - [Varunnn-Gupta](https://github.com/varunnn-gupta)

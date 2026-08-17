@@ -1,3 +1,5 @@
 Practice Notes
 
 1. This is line 1 written for the next commit
+2. This is line 2 written for another commit
+3. This is line 3 written for another commit, where we learnt about git diff 
